@@ -1,0 +1,23 @@
+﻿#lk_header .menu-bar {
+    height: 60px;
+    line-height: 59px;
+    border-bottom: 1px solid #e0e0e0;
+    border-top: none;
+}
+
+#lk_header .navbar-cus {
+    height: 60px;
+    background-color: #FFFFFF;
+}
+
+    #lk_header .navbar-cus .navbar-brand {
+        padding-top: 10px;
+    }
+
+    #lk_header .navbar-cus .navbar-navcus a{
+        line-height: 30px;
+    }
+
+    #lk_header .navbar-cus .navbar-navcus .btn-getstart-cus {
+        padding-top: 12px;
+    }

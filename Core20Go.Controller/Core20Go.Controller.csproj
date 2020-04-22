@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\Solution\Core20Go</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core20Go.Context\Core20Go.Context.csproj" />
+    <ProjectReference Include="..\Core20Go.DTO\Core20Go.DTO.csproj" />
+    <ProjectReference Include="..\Core20Go.Entity\Core20Go.Entity.csproj" />
+    <ProjectReference Include="..\Core20Go.Repository\Core20Go.Repository.csproj" />
+    <ProjectReference Include="..\Solution\Core20Go\Core20Go.Helper\Core20Go.Helper.csproj" />
+  </ItemGroup>
+
+
+</Project>

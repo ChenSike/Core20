@@ -1,0 +1,18 @@
+﻿body {
+    background-image: url("../resoures/images/newaccount/back_form/back_form.jpg");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.Div-NewAccount-Form {
+    width:500px;
+    height:500px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+}

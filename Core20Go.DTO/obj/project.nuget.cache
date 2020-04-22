@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "73eQute0nrNyx3c0WUu3cLEp+9JGpihnWZnqTaw1Btusj3AGAM+ov/LndlMXu6K7NPwckkYQzU04D7mc4hc5rA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Projects\\Core20Go\\Core20Go.DTO\\Core20Go.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sike.chen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sike.chen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

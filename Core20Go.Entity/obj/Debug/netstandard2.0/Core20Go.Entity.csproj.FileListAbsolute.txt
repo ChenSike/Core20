@@ -1,0 +1,9 @@
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\bin\Debug\netstandard2.0\Core20Go.Entity.deps.json
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\bin\Debug\netstandard2.0\Core20Go.Entity.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\bin\Debug\netstandard2.0\Core20Go.Entity.pdb
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.csprojAssemblyReference.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.AssemblyInfoInputs.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.AssemblyInfo.cs
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Entity\obj\Debug\netstandard2.0\Core20Go.Entity.pdb

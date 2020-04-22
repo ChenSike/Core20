@@ -1,0 +1,9 @@
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\bin\Debug\netstandard2.0\Core20Go.Helper.deps.json
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\bin\Debug\netstandard2.0\Core20Go.Helper.dll
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.csprojAssemblyReference.cache
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.AssemblyInfoInputs.cache
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.AssemblyInfo.cs
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\bin\Debug\netstandard2.0\Core20Go.Helper.pdb
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.dll
+C:\Workspace\Projects\Core20Go\Solution\Core20Go\Core20Go.Helper\obj\Debug\netstandard2.0\Core20Go.Helper.pdb

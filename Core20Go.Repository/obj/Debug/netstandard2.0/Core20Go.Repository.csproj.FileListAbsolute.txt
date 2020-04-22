@@ -1,0 +1,16 @@
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Repository.deps.json
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Repository.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Repository.pdb
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Context.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Entity.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Helper.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Context.pdb
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Entity.pdb
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\bin\Debug\netstandard2.0\Core20Go.Helper.pdb
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.csprojAssemblyReference.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.AssemblyInfoInputs.cache
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.AssemblyInfo.cs
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.csproj.CopyComplete
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.dll
+C:\Workspace\Projects\Core20Go\Core20Go.Repository\obj\Debug\netstandard2.0\Core20Go.Repository.pdb

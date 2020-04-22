@@ -1,0 +1,9 @@
+﻿body {
+    font-size:13px;
+    font-family:"Microsoft YaHei",Arial, Helvetica, sans-serif；
+}
+
+.bg-img {
+    background: no-repeat center fixed;
+    background-size: contain;
+}
